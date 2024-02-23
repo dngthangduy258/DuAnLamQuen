@@ -30,7 +30,8 @@
                 <asp:TextBox CssClass="mb-3" ID="txtKetQua" runat="server"></asp:TextBox>
                 <br />
             </div>
-            <asp:Label ID="lblThongBao1" runat="server" Text=""></asp:Label>
+           
+            <small class="text-danger"> <asp:Label ID="lblThongBao1" runat="server" Text=""></asp:Label> </small>
             <br />
             <asp:Label ID="lblThongBao2" runat="server" Text=""></asp:Label>
 
