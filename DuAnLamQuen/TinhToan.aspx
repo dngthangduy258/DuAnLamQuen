@@ -13,10 +13,14 @@
             <div class="h1 text-center bg-success mb-3 p-2 ">Tính toán đơn giản</div>
             <div class="mx-auto text-center " style="width:300px">
                 <div class="mb-2">
-                    Nhập số 1: <asp:TextBox ID="txtSo1" runat="server" ></asp:TextBox><br />
+                    Nhập số 1: <asp:TextBox ID="txtSo1" runat="server" ></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtSo1" CssClass="text-danger" ErrorMessage="Bạn chưa nhập số thứ nhất !"></asp:RequiredFieldValidator>
+                    <br />
                 </div>
                 <div>
-                    Nhập số 2: <asp:TextBox ID="txtSo2" runat="server" ></asp:TextBox><br />
+                    Nhập số 2: <asp:TextBox ID="txtSo2" runat="server" ></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtSo2" CssClass="text-danger" ErrorMessage="Bạn chưa nhập số thứ hai !"></asp:RequiredFieldValidator>
+                    <br />
                 </div>
                 <br />
                 <div class="">
