@@ -51,7 +51,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtTenDangNhap;
 
         /// <summary>
-<<<<<<< HEAD
         /// frvTenDN control.
         /// </summary>
         /// <remarks>
@@ -70,8 +69,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.RegularExpressionValidator revTenDN;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label3 control.
         /// </summary>
         /// <remarks>
@@ -90,7 +87,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtMK;
 
         /// <summary>
-<<<<<<< HEAD
         /// rfv control.
         /// </summary>
         /// <remarks>
@@ -100,8 +96,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfv;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label4 control.
         /// </summary>
         /// <remarks>
@@ -120,7 +114,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtRMK;
 
         /// <summary>
-<<<<<<< HEAD
         /// rfvMKNL control.
         /// </summary>
         /// <remarks>
@@ -139,8 +132,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.CompareValidator cpvNLMK0;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label5 control.
         /// </summary>
         /// <remarks>
@@ -168,7 +159,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtHoTen;
 
         /// <summary>
-<<<<<<< HEAD
         /// rfvTenKhachHang control.
         /// </summary>
         /// <remarks>
@@ -178,8 +168,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.RequiredFieldValidator rfvTenKhachHang;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label7 control.
         /// </summary>
         /// <remarks>
@@ -189,49 +177,30 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.Label Label7;
 
         /// <summary>
-<<<<<<< HEAD
         /// ddlNgay control.
-=======
-        /// DropDownList1 control.
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-<<<<<<< HEAD
         protected global::System.Web.UI.WebControls.DropDownList ddlNgay;
 
         /// <summary>
         /// ddlThang control.
-=======
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList1;
-
-        /// <summary>
-        /// DropDownList2 control.
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-<<<<<<< HEAD
         protected global::System.Web.UI.WebControls.DropDownList ddlThang;
 
         /// <summary>
         /// ddlNam control.
-=======
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList2;
-
-        /// <summary>
-        /// DropDownList3 control.
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-<<<<<<< HEAD
         protected global::System.Web.UI.WebControls.DropDownList ddlNam;
 
         /// <summary>
@@ -260,9 +229,6 @@ namespace DuAnLamQuen
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator3;
-=======
-        protected global::System.Web.UI.WebControls.DropDownList DropDownList3;
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
 
         /// <summary>
         /// Label8 control.
@@ -283,7 +249,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtEmail;
 
         /// <summary>
-<<<<<<< HEAD
         /// rfvEmail control.
         /// </summary>
         /// <remarks>
@@ -293,8 +258,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.RegularExpressionValidator rfvEmail;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label9 control.
         /// </summary>
         /// <remarks>
@@ -313,7 +276,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.TextBox txtThuNhap;
 
         /// <summary>
-<<<<<<< HEAD
         /// rvdThuNhap control.
         /// </summary>
         /// <remarks>
@@ -323,8 +285,6 @@ namespace DuAnLamQuen
         protected global::System.Web.UI.WebControls.RangeValidator rvdThuNhap;
 
         /// <summary>
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         /// Label10 control.
         /// </summary>
         /// <remarks>
@@ -395,7 +355,6 @@ namespace DuAnLamQuen
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Label Label2;
-<<<<<<< HEAD
 
         /// <summary>
         /// lblKetQua control.
@@ -414,7 +373,5 @@ namespace DuAnLamQuen
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.ValidationSummary ValidationSummary1;
-=======
->>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
     }
 }
