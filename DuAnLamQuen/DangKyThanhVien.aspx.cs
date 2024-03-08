@@ -11,6 +11,7 @@ namespace DuAnLamQuen
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             if (!IsPostBack)
             {
                 // Tạo danh sách ngày
@@ -123,6 +124,9 @@ namespace DuAnLamQuen
                     ddlNgay.Items.Add(listItem);
                 }
             }
+=======
+
+>>>>>>> ed70d64e4b53e6c596678ab02617a1b9a3ffdc1d
         }
     }
 }
